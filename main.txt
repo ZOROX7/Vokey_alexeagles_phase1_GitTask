@@ -1,1 +1,7 @@
+
 "Main branch edited this text instead" 
+
+"Feature branch edited this text" 
+
+
+Conflict Resolved manually
